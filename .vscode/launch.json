@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "lab_8",
+      "request": "launch",
+      "mainClass": "lab_8",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "type": "java",
+      "name": "lab_6",
+      "request": "launch",
+      "mainClass": "lab_6",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "type": "java",
+      "name": "lab_5",
+      "request": "launch",
+      "mainClass": "lab_5",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "type": "java",
+      "name": "lab_4",
+      "request": "launch",
+      "mainClass": "lab_4",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "type": "java",
+      "name": "lab_3",
+      "request": "launch",
+      "mainClass": "lab_3",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "type": "java",
+      "name": "Lab_2",
+      "request": "launch",
+      "mainClass": "Lab_2",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Object_Oriented_proggraming_Lab_73dff0d2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/Github/Object_Oriented_proggraming_Lab",
+      "program": "e:/Github/Object_Oriented_proggraming_Lab/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
